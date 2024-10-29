@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple List</string>
+    <string name="hint_enter_number">Enter a positive integer</string>
+    <string name="even_numbers">Even Numbers</string>
+    <string name="odd_numbers">Odd Numbers</string>
+    <string name="perfect_squares">Perfect Squares</string>
+    <string name="show">Show</string>
+</resources>
